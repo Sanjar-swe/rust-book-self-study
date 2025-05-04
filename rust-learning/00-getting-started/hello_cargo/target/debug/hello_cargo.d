@@ -1,0 +1,1 @@
+/home/swe/Desktop/rust-book-self-study/rust-learning/00-getting-started/hello_cargo/target/debug/hello_cargo: /home/swe/Desktop/rust-book-self-study/rust-learning/00-getting-started/hello_cargo/src/main.rs

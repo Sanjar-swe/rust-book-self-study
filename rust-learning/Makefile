@@ -9,3 +9,4 @@ commit:
 	@read -p "Введите сообщение коммита: " msg; \
 	git commit -m "$$msg"; \
 	git push
+
